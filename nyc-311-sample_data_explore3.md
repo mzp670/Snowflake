@@ -27,7 +27,7 @@ ORDER BY "borough", "year"; ORDER BY "borough", "year";
 
 **Seeing from Different Angles -  The Magic of Data Exploration**
 
-Imagine data exploration as putting on various lenses, each revealing a unique view of reality. By diving into borough performance data, we uncover hidden patterns and trends. Our first stop introduces a horizontal bar graph showcasing the normalized improvement and average response times for each borough. This graph offers an easy-to-understand snapshot of each borough's progress.
+Imagine data exploration as putting on various lenses, each revealing a unique view of reality. By diving into borough performance data, we uncover hidden patterns and trends. Our first stop introduces a vertical bar graph showcasing the normalized improvement and average response times for each borough. This graph offers an easy-to-understand snapshot of each borough's progress.
 
 ```sql
 -- Generate list of boroughs and the average days per year.
